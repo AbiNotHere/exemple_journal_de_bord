@@ -8,6 +8,7 @@ Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous
 
 [Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
 
-Ça fait probablement près de 5 ans que je construit des ordinateurs dans mon temps libre. J'ai tout le temps eu une expertise dans le hardware, mais pas vraiment dans le software. De ce fait, vu que la programmation me fascinait **beaucoup**, j'ai rejoint ce programme après me l'avoir fait recommandé par un ami dans le but d'en apprendre plus sur le software de ce que je construisais. Jusqu'à maintenant, je ne regrette rien!
+Ça fait probablement près de 5 ans que je construit des ordinateurs dans mon temps libre. J'ai tout le temps eu une expertise dans le hardware, mais pas vraiment dans le software. De ce fait, vu que la programmation me fascinait **beaucoup**, j'ai rejoint ce programme après me l'avoir fait recommandé par un ami dans le but d'en apprendre plus sur le software de ce que je construisais. 😳 Jusqu'à maintenant, je ne regrette rien!
+* J'aime beaaucoup le programme!
 
 
