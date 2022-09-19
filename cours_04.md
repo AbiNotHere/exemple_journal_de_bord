@@ -8,7 +8,7 @@ En pensant à du multimédia, les jeux vidéo sont quelque chose qui nous arrive
 ### Emploi 2 - Programmeur
 Dans n'importe quel métier du multimédia, les programmeurs y jousent un rôle fort important. De positions gouvernementales à des postes de développement d'artcles du domaine de la santé, il y a du travail un peu partout pour nos futurs programmeurs. Les programmeurs travaillent souvent avec du code dans les domaines de nos jours. De cet emploi, la programmation et le travail avec différents langages de code m'intéresse beaucoup, par contre, d'après ce que j'ai entendu, je ne pense pas aimer l'énorme charge de travail qui s'associe avec ce métier.
 
-### Emploi 3 - Identification
+### Emploi 3 - Concepteur audiovisuel
 4 à 5 lignes 
 
 ### Emploi 4 - Identification
